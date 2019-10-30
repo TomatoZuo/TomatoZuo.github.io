@@ -13,12 +13,12 @@ author: tomatoz
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /vitae/
+baseurl: 
 title: tomatoz's blog
-name: Chris Turner
-email: christurner@me.com
-email_full: mailto:youremail@me.com
-website: github.io
+name: tomatoz
+email: 
+email_full: 
+website: 
 website_full: https://TomatoZuo.github.io
 github: trending
 twitter: 
